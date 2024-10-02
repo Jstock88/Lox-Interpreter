@@ -1,0 +1,14 @@
+{
+    "name": "lox-interpreter",
+    "version": "1.0.0",
+    "description": "A Lox interpreter written in TypeScript",
+    "main": "dist/lox.js",
+    "scripts": {
+      "build": "tsc",
+      "start": "node dist/lox.js"
+    },
+    "dependencies": {},
+    "devDependencies": {
+      "typescript": "^5.6.2"
+    }
+  }
